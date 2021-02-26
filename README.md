@@ -1,1 +1,1 @@
-# Ad-m-G-ster--kotlin-uyg
+# Adimi_Goster-kotlin_uyg
